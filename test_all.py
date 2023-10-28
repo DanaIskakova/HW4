@@ -29,5 +29,4 @@ def test_checksum():
     
 def test_pipeline():
     result = pipeline()
-    assert result == 7785816     
-                  
+    assert result == 7785816                       
